@@ -1,1 +1,6 @@
 # CloudingLab
+<<<<<<< HEAD
+... your local changes ...
+=======
+... changes from the remote repository ...
+>>>>>>> FETCH_HEAD
